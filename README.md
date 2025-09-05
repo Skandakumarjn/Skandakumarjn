@@ -1,3 +1,4 @@
+<!--
 ## Hi there 👋
 
 <!--
@@ -14,3 +15,55 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Skanda Kumar J N  
+
+🎯 **Aspiring Software Developer | Python Enthusiast | Building Projects & Learning Daily**  
+
+---
+
+## 🚀 About Me
+- 🧑‍🎓 Engineer (2025 graduate)    
+- 🎯 Career Goal: **Backend / Full-stack Developer**  
+- 🔒 Interested in **Cybersecurity + AI/ML** (worked on projects in OCR, Deep Learning, and Hate Speech Detection)  
+- 🎶 Built fun projects like a **Spotify → YouTube Playlist Sync app** with caching and multi-account support   
+
+---
+
+## 🛠️ Tech Skills (Growing)
+- **Languages:** Python (primary), C basics  
+- **Core CS:** Data Structures & Algorithms (LeetCode, HackerRank)  
+- **Web Dev:** Flask, Django (learning)  
+- **Databases:** MySQL, PostgreSQL, SQLite  
+- **Tools:** Git, GitHub, Docker (basics)  
+- **ML/AI:** BiLSTM, HateBERT, OCR integrations (academic projects)  
+
+---
+
+## 📂 Featured Projects
+- 🎵 **Spotify → YouTube Playlist Sync**  
+  - Syncs songs automatically between platforms  
+  - Smart caching (`yt_cache.json`, `playlist_cache.json`)  
+  - Multi-account login (Spotify & YouTube)  
+  - Future: desktop app with GUI  
+
+- 🔍 **YouTube Comment Toxicity Detector**  
+  - Flask web app  
+  - OCR + Deep Learning model for toxicity detection  
+  - BiLSTM & HateBERT experiments  
+
+- 🛡️ **Cyberbullying Detection (Academic)**  
+  - Topic: *Integrating OCR + ML for Cyberbullying Detection with Legal Framework Compliance*  
+  - Implemented **BiLSTM** for severity-based classification  
+  - Explored automated reporting pipelines  
+
+---
+
+## 🌍 Connect with Me
+- 💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/skanda-kumar-j-n-010a48247/)) (add your link here)  
+- 📧 skandakumarjn@gmail.com
+- 🐙 GitHub: [SkandaKumarJN]([https://github.com/](https://github.com/Skandakumarjn))  
+
+---
+
+⭐ **Looking for my first opportunity** as a Software Developer / Python Backend Developer.  
+If you’re hiring or know someone who is → let’s connect!
