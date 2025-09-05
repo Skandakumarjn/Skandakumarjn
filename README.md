@@ -19,13 +19,17 @@ Here are some ideas to get you started:
 
 🎯 **Aspiring Software Developer | Python Enthusiast | Building Projects & Learning Daily**  
 
----
-
 ## 🚀 About Me
 - 🧑‍🎓 Engineer (2025 graduate)    
 - 🎯 Career Goal: **Backend / Full-stack Developer**  
 - 🔒 Interested in **Cybersecurity + AI/ML** (worked on projects in OCR, Deep Learning, and Hate Speech Detection)  
 - 🎶 Built fun projects like a **Spotify → YouTube Playlist Sync app** with caching and multi-account support   
+
+--- 
+[![Skandakumarjn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skandakumarjn&show_icons=true&theme=dark)](https://github.com/Skandakumarjn/github-readme-stats)
+ 
+![](https://nirzak-streak-stats.vercel.app/?user=Skandakumarjn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skandakumarjn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
@@ -59,7 +63,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🌍 Connect with Me
-- 💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/skanda-kumar-j-n-010a48247/)) (add your link here)  
+- 💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/skanda-kumar-j-n-010a48247/)) 
 - 📧 skandakumarjn@gmail.com
 - 🐙 GitHub: [SkandaKumarJN]([https://github.com/](https://github.com/Skandakumarjn))  
 
