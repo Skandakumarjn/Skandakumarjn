@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 ---
 
 ## 🌍 Connect with Me
-- 💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/skanda-kumar-j-n-010a48247/)) 
+- 💼 [LinkedIn]((https://www.linkedin.com/in/skanda-kumar-j-n-010a48247/)) 
 - 📧 skandakumarjn@gmail.com
-- 🐙 GitHub: [SkandaKumarJN]([https://github.com/](https://github.com/Skandakumarjn))  
+- 🐙 GitHub: [SkandaKumarJN]((https://github.com/Skandakumarjn))  
 
 ---
 
