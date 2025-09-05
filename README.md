@@ -26,12 +26,11 @@ Here are some ideas to get you started:
 - 🎶 Built fun projects like a **Spotify → YouTube Playlist Sync app** with caching and multi-account support   
 
 --- 
-[![Skandakumarjn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skandakumarjn&show_icons=true&theme=dark)](https://github.com/Skandakumarjn/github-readme-stats)
+[![Skandakumarjn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skandakumarjn&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Skandakumarjn/github-readme-stats)
  
 ![](https://nirzak-streak-stats.vercel.app/?user=Skandakumarjn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skandakumarjn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
 
 ## 🛠️ Tech Skills (Growing)
 - **Languages:** Python (primary), C basics  
